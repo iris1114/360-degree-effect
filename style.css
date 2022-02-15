@@ -5,7 +5,7 @@
 }
 
 body{
-    background-image: url(./bg.jpg);
+    background-image: url(./images/bg.jpg);
     background-size: cover;
     background-repeat: no-repeat;
     background-position: center;
@@ -67,13 +67,13 @@ input[type="range"]::-webkit-slider-thumb {
 
 @media screen and (max-width: 1200px){
     body{
-        background-image: url(./bg_md.jpg);
+        background-image: url(./images/bg_md.jpg);
     }
 }
 
 @media screen and (max-width: 912px){
     body{
-        background-image: url(./bg_sm.jpg);
+        background-image: url(./images/bg_sm.jpg);
     }
 }
 
